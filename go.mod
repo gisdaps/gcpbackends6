@@ -3,9 +3,11 @@ module github.com/gisdaps/gcpbackends6
 go 1.21.3
 
 require (
-	github.com/aiteung/atdb v0.1.3
+	github.com/HRMonitorr/PasetoprojectBackend v0.0.11
+	github.com/aiteung/atdb v0.1.1
+	github.com/petapedia/peda v0.1.1
 	github.com/whatsauth/watoken v0.1.3
-	go.mongodb.org/mongo-driver v1.13.0
+	go.mongodb.org/mongo-driver v1.12.1
 )
 
 require (
